@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 01 15:08:02 CST 2016
+maven-release-plugin-2.3.2.pom>central=
+maven-release-plugin-2.3.2.pom>aliyun\ public=
+maven-release-plugin-2.3.2.jar>aliyun\ public=
+maven-release-plugin-2.3.2.jar>central=

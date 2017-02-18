@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 01 15:08:00 CST 2016
+maven-site-plugin-3.3.pom>central=
+maven-site-plugin-3.3.pom>aliyun\ public=
+maven-site-plugin-3.3.jar>aliyun\ public=
+maven-site-plugin-3.3.jar>central=

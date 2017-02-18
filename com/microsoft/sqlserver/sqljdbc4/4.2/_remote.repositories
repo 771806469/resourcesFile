@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jul 27 10:44:20 CST 2016
+sqljdbc4-4.2.jar>=
+sqljdbc4-4.2.pom>=

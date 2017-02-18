@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.sonatype.oss</groupId>
+    <artifactId>oss-parent</artifactId>
+    <version>7</version>
+  </parent>
+  <groupId>com.github.pusuo</groupId>
+  <artifactId>patchca</artifactId>
+  <version>d3e2b0b5ba</version>
+  <name>pusuo/patchca</name>
+  <description>Patchca: verification code library for Java</description>
+  <url>https://github.com/pusuo/patchca</url>
+  <inceptionYear>2013</inceptionYear>
+  <licenses>
+    <license>
+      <name>GNU General Public License v3.0</name>
+      <url>https://api.github.com/licenses/gpl-3.0</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>pusuo</id>
+      <name></name>
+      <email></email>
+    </developer>
+  </developers>
+  <scm>
+    <developerConnection>scm:git:git@github.com:pusuo/patchca.git</developerConnection>
+    <url>git@github.com:pusuo/patchca.git</url>
+  </scm>
+  <distributionManagement>
+    <repository>
+      <id>sonatype-nexus-staging</id>
+      <url>https://oss.sonatype.org/service/local/staging/deploy/maven2</url>
+    </repository>
+    <snapshotRepository>
+      <id>sonatype-nexus-snapshots</id>
+      <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+    </snapshotRepository>
+  </distributionManagement>
+</project>
